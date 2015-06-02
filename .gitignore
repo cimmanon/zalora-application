@@ -1,0 +1,4 @@
+snaplets/postgresql-simple/*
+cabal\.sandbox\.config
+dist/
+\.cabal-sandbox/
